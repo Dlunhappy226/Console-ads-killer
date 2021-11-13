@@ -1,0 +1,1 @@
+console.log("Console ads killer made by Dlunhappy226")
